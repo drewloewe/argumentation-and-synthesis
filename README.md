@@ -3,9 +3,9 @@ This resource provides support material on argumentation and synthesis for Drew 
 
 ## Argumentation: Stasis, Support, Assumptions, Counter-Arguments
 
-Read this material to learn some essential concepts and terms that will guide our work with argumentation. 
+Essential concepts and terms that will guide our work with argumentation. 
 
 ## Doing Synthesis and Writing Synthesized Paragraphs
 
-Read this material to learn some essential concepts and terms that will guide our work with the important intellectual skill of synthesis. 
+Essential concepts and terms that will guide our work with synthesis. 
 
