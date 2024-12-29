@@ -10,10 +10,10 @@ Let’s build a shared vocabulary for understanding how people argue.
 * Ancient rhetoricians developed a simple yet powerful system for understanding what is, or could be, at issue in a particular situation. They called this system **stasis** (STAH-sis). Stasis is a system for identifying and zeroing in on issues and for understanding, focusing, or creating an argument.
 * Various systems have been formulated over the centuries and updated or contextualized for different situations. Rather than try to adopt a particular system that has been offered over the years, I want you to think of stasis as **a useful system for understanding and coming up with ideas and for avoiding misunderstandings**. 
 * In this course, here are the ideas that you need to know about stasis:
-- Stasis is a range of possibilities for inventing claims and focusing an argument.  
-- If a writer and audience are going to have a meaningful, relevant exchange (an explanation, an argument, or something else), they should first be on the same page about **what the issue is** and **how to explain or argue about it.**  
+  - Stasis is a range of possibilities for inventing claims and focusing an argument.  
+  - If a writer and audience are going to have a meaningful, relevant exchange (an explanation, an argument, or something else), they should first be on the same page about **what the issue is** and **how to explain or argue about it.**  
   - You have no doubt heard and used the sayings *we’re not on the same page* or *comparing apples to oranges* before. Those common sayings are expressions of the idea that there was no basic agreement yet on what the issue was or how to argue about it.
-- Stasis is best thought of as a system of asking questions across a spectrum from foundational to complex.
+  - Stasis is best thought of as a system of asking questions across a spectrum from foundational to complex.
 * The writer and audience must agree, at least provisionally, on the foundational issues before moving to the complex levels. For example, if you want to argue that the US government should develop defenses against the dire threat of werewolves, you have to first have some agreement that a) werewolves exist and b) are a threat at all, let alone a dire one. Otherwise, a policy argument of what to do about werewolves is going to lead to misunderstandings and be premature anyway.
 
 ### **The Stasis Spectrum**
