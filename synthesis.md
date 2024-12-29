@@ -1,12 +1,4 @@
-Below is a cleaned-up version of the Markdown, ready for GitHub. The main fixes are:
 
-- Consistent heading levels and bolding.  
-- Removal of unnecessary backslashes after citations, e.g., `(Smith 78)` instead of `(Smith 78\)`.  
-- Minor spacing/formatting adjustments for readability.
-
----
-
-```markdown
 # **Doing Synthesis and Writing Synthesized Paragraphs**
 
 ## **What is Synthesis?**
