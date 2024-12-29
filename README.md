@@ -3,9 +3,9 @@ This resource provides support material on argumentation and synthesis for Drew 
 
 ## Argumentation: Stasis, Support, Assumptions, Counter-Arguments
 
-[Essential concepts and terms that will guide our work with argumentation.](https://github.com/drewloewe/argumentation-and-synthesis/blob/main/synthesis.md) 
+Essential concepts and terms that will guide our work with argumentation.
 
 ## Doing Synthesis and Writing Synthesized Paragraphs
 
-Essential concepts and terms that will guide our work with synthesis. 
+[Essential concepts and terms that will guide our work with synthesis].(https://github.com/drewloewe/argumentation-and-synthesis/blob/main/synthesis.md) 
 
