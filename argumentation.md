@@ -33,7 +33,7 @@ The spectrum runs from the most foundational stasis to the most complex:
 * Comparison  
 * Policy or Procedure
 
-| \<---- More foundational | \--------------- | \---------------- | \------------------ | \------------------- | \---------\> More Complex |
+| More foundational |  |  |  |  |  More Complex |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Existence Stasis** | **Definition Stasis** | **Cause/Effect Stasis** | **Worth Stasis** | **Comparison Stasis** | **Policy or Procedure Stasis** |
 |  What core facts can we agree about regarding the existence of the issue or phenomenon?  To what extent are we arguing from common understandings of reality?  | How should we name or define the issue or phenomenon?  What are the implications of labeling it one way or another?  | What brought about this issue or phenomenon? Where did it come from?  What are the effects or implications of this issue or phenomenon?  | Is this issue or phenomenon good, bad, or mixed?  How do we determine that? |  What can be learned by comparing this issue or phenomenon with another?  What is the worth of this issue or phenomenon compared to another?  How can we better understand this issue or phenomenon by examining another? |  What should be done to address this issue or phenomenon? Why is that the thing to do? How is doing that feasible? How will we know whether it was effective? Who has the authority or ability to come up with and implement policy? Are there proper steps that need to be followed? |
