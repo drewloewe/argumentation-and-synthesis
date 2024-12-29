@@ -100,6 +100,9 @@ If you have a well-considered, worthwhile argument to make, **it can withstand e
 
  Nobody is born knowing how to write a counter-argument. Here are tips on writing a counter-argument in this class:
 
+ | Clear, fair summary of opposing arguments, *followed by*… | Clear, fair examination of claims and support with any warranted concessions, *followed by*… | Why your argument is better supported |
+| :---- | :---- | :---- |
+
 1. Clearly and fairly summarize opposing arguments.   
    * A good test for this is to imagine whether the writer of the opposing argument would agree that your summary is fair and does not mischaracterize their claim or support. If not, then your counterargument will be dismissed as strawmanning.  
 2. Clearly and fairly examine the connections between opposing claims and the evidence offered to support them.   
@@ -109,12 +112,9 @@ If you have a well-considered, worthwhile argument to make, **it can withstand e
        * What do you agree on, if anything?  
        * Some ways to get started on concessions can be found in [this handout from the Kentucky Writing Project](http://www.kentuckywritingproject.com/uploads/2/7/8/7/27877037/they_say,_i_say_templates.pdf)t, which is based on a popular book titled *They Say/I Say*.  
 3. State clearly and fairly why, on balance, your argument is better supported.   
-   * An argument can be better supported on balance without all other arguments being totally off-base and worthless. It’s not always a zero-sum game, despite what our infantile media-fueled culture of people shouting past one another might suggest. **In fact, the more interesting and important the issue, the more likely it is that well-supported arguments are being made that disagree with one another**. Your goal in classes such as this one is to show why your argument is better supported rather than why the opposing arguments are terrible and written by bad people who should hide their faces in shame. 
-
-| Clear, fair summary of opposing arguments, *followed by*… | Clear, fair examination of claims and support with any warranted concessions, *followed by*… | Why your argument is better supported |
-| :---- | :---- | :---- |
-
+   * An argument can be better supported on balance without all other arguments being totally off-base and worthless. It’s not always a zero-sum game, despite what our infantile media-fueled culture of people shouting past one another might suggest. **In fact, the more interesting and important the issue, the more likely it is that well-supported arguments are being made that disagree with one another**. Your goal in classes such as this one is to show why your argument is better supported rather than why the opposing arguments are terrible and written by bad people who should hide their faces in shame.
      
+   
 
 See also the “turn against” and “turn back” moves in [this counterargument handout from Brandeis University](https://www.brandeis.edu/writing-program/resources/faculty/handouts/counterargument.html), which offers a different way of understanding what’s explained above.
 
