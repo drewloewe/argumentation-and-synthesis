@@ -3,13 +3,13 @@
 
 ## **What is Synthesis?**
 
-Synthesis requires writers to blend information from different sources into a new, meaningful text. It's a cognitively demanding (hard) task involving reading and writing activities. Synthesis writing is common in upper-secondary and higher education due to its epistemic value and high learning potential. It is also expected in many professional writing situations, even when nobody mentions the word “synthesis.” It challenges writers because it involves knowledge transformation through reading, rereading, integrating, organizing, and elaborating different source texts.
+Synthesis requires writers to blend information from different sources into a new, meaningful text. It's a cognitively demanding (hard) task involving reading and writing activities. Synthesis writing is common in upper-secondary and higher education and is also expected in many professional writing situations, *even when nobody mentions the word “synthesis.”* It challenges writers because it involves knowledge transformation through reading, rereading, integrating, organizing, and elaborating different source texts.
 
 Synthesis involves putting different information, arguments, and ideas into meaningful relationships to see how they fit together.
 
 ## **Real Synthesis vs. Fake Synthesis**
 
-Synthesis weaves multiple sources together on the basis of ideas that those sources contribute. The ideas matter most.
+Synthesis weaves multiple sources together on the basis of ideas that those sources contribute. The ideas matter most, not a list of who said what.
 
 Maybe the best way to understand synthesis is to contrast it with various forms of fake synthesis that sometimes appear in writing.
 
@@ -20,19 +20,17 @@ The paragraphs below have placeholder text. Ignore the machine-generated Latin. 
 
 Big idea sentence identifying the big idea of this paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua (Smith 78). Egestas congue quisque egestas diam in (Smith 88). Vivamus “arcu felis bibendum ut tristique” et egestas quis ipsum (Smith 92). Netus et malesuada fames ac turpis egestas integer eget aliquet (Smith 90). Ultricies mi eget mauris pharetra et (Smith 78). Volutpat blandit aliquam etiam erat velit scelerisque in (Smith 83). Amet massa vitae tortor condimentum lacinia quis (Smith 83). Ultrices neque ornare aenean “euismod elementum nisi quis” eleifend quam (Smith 92). Sagittis orci a “scelerisque purus semper eget duis” (Smith 92). Euismod lacinia at quis risus sed vulputate (Smith 91). Cras tincidunt lobortis feugiat vivamus at augue (Smith 92). Enim “sit amet venenatis urna” cursus eget (Smith 78). Aenean euismod elementum nisi quis (Smith 79).
 
-**(This is just a monologue featuring Smith.)**  
-Do not write this kind of paragraph.
+**That is just a monologue featuring Smith.** Do not write this kind of paragraph.
 
 ### Fake Synthesis Type 2
 **Paragraphs that use multiple sources, but one source is the “star” in those paragraphs and the rest are thrown in just a bit, simply to have additional sources rather than develop a conversation. Don’t do this.**
 
 Big idea sentence identifying the big idea of this paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua (Smith 78). Egestas congue quisque egestas diam in (Smith 88). Vivamus “arcu felis bibendum ut tristique” et egestas quis ipsum (Smith 92). Netus et malesuada fames ac turpis egestas integer eget aliquet (Smith 90). Ultricies mi eget mauris pharetra et (Smith 78). Ultrices neque ornare aenean “euismod elementum nisi quis” eleifend quam (Smith 92). Sagittis orci a “scelerisque purus semper eget duis” (Smith 92). Euismod lacinia at quis risus sed vulputate (Smith 91). Cras tincidunt lobortis feugiat vivamus at augue (Smith 92). Enim “sit amet venenatis urna” cursus eget (Smith 78). Aenean euismod elementum nisi quis (Jones 2). Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua (Smith 78). Egestas congue quisque egestas diam in (Brown 8). Vivamus “arcu felis bibendum ut tristique” et egestas quis ipsum (Smith 92). Netus et malesuada fames ac turpis egestas integer eget aliquet (Smith 90). Ultricies mi eget mauris pharetra et (Smith 78). Volutpat blandit aliquam etiam erat velit scelerisque in (Smith 83). Amet massa vitae tortor condimentum lacinia quis (Smith 83). Ultrices neque ornare aenean “euismod elementum nisi quis” eleifend quam (Martinez 2). Sagittis orci a “scelerisque purus semper eget duis” (Smith 92). Euismod lacinia at quis risus sed vulputate (Smith 91). Cras tincidunt lobortis feugiat vivamus at augue (Smith 92). Enim “sit amet venenatis urna” cursus eget (Smith 78).
 
-**(This is just Smith hogging the mic and Jones, Brown, and Martinez popping up to say one thing each.)**  
-Do not write this kind of paragraph.
+**That is just Smith hogging the mic and Jones, Brown, and Martinez popping up to say one thing each.** Do not write this kind of paragraph.
 
 ### Fake Synthesis Type 3
-**Serial reportage: paragraphs report ideas from sources, one after the other, but do not show how the sources are in a conversation relevant to the reason the student is using the sources. Don’t do this.**
+**Serial reportage: paragraphs report ideas from sources, one after the other, but do not show how the sources are in a conversation relevant to the reason the student is using the sources. This is the most common type of fake synthesis. Don’t do this.**
 
 Big idea sentence identifying the big idea of this paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua (Smith 78). Egestas congue quisque egestas diam in (Smith 88). Vivamus “arcu felis bibendum ut tristique” et egestas quis ipsum (Smith 92). Netus et malesuada fames ac turpis egestas integer eget aliquet (Smith 90). Ultricies mi eget mauris pharetra et (Smith 78). Ultrices neque ornare aenean “euismod elementum nisi quis” eleifend quam (Smith 92). Sagittis orci a “scelerisque purus semper eget duis” (Smith 92). Euismod lacinia at quis risus sed vulputate (Smith 91). Cras tincidunt lobortis feugiat vivamus at augue (Smith 92). Enim “sit amet venenatis urna” cursus eget (Smith 78).
 
@@ -42,12 +40,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Accumsan tortor posuere ac ut consequat (Martinez 2). Nibh cras pulvinar mattis nunc sed blandit libero volutpat sed (Martinez 4). Sem nulla pharetra diam sit amet nisl suscipit adipiscing (Martinez 4). Quis commodo odio aenean sed adipiscing diam donec (Martinez 6). “Dui ut ornare lectus” sit amet est (Martinez 2). Quis auctor “elit sed vulputate mi” sit amet mauris (Martinez 7). Dui ut ornare lectus sit (Martinez 7). Blandit cursus risus at ultrices (Martinez 12). Massa tincidunt “dui ut ornare lectus” sit amet (Martinez 12). Lobortis feugiat vivamus at augue eget arcu dictum varius (Martinez 13).
 
-**(This is just a report of what the sources have to say, one by one, but it does not weave them together.)**  
-Do not write this kind of paragraph.
+**That is just a report of what the sources have to say, one by one, but it does not weave them together.** Do not write this kind of paragraph.
 
 ## **A Paragraph Structure for Real Synthesis: Modified Version of Barclay Barrios’ “Super-Secret Formula” Structure for Working with Multiple Sources**
 
-Barclay Barrios, in *Emerging: Contemporary Readings for Writers*, suggests a structure for working with multiple sources in a paragraph. This modified version is required for synthesis in this class. If you learn this structure, you will likely face a lot of future writing challenges in and out of college with more confidence and skill. This is like learning to play several songs based on four chords, then being able to branch out from that foundation.
+Barclay Barrios, in *Emerging: Contemporary Readings for Writers*, suggests a structure for working with multiple sources in a paragraph. This modified version is required for synthesis in this class. If you learn this structure, you will likely face a lot of future writing challenges in and out of college with more confidence and skill. This is a lot like learning to play four chords on a guitar, then being able to branch out from that foundation and play hundreds of songs.
 
 ### **Do this**  
 Write your synthesis paragraphs in this order, making these moves:
